@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Magdy</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate software engineer who have experience through projects, competitive programming contests and volunteering in Students activity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelmarzouky&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelmarzouky" /> </p>
 
